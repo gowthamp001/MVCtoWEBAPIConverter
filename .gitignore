@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+
+/src/.vs/MvctoWebApiConverter/v16
+/src/MvctoWebApiConverter/.vs
+/src/MvctoWebApiConverter/bin/Debug/net6.0
+/src/MvctoWebApiConverter/obj/Debug/net6.0
+/src/MvctoWebApiConverter/obj/Release/net6.0
